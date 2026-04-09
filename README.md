@@ -22,7 +22,7 @@
 
 <div align="center">
 
-✨ **oh！No！github蛇正在吃掉我的贡献！！**✨
+✨ **oh！No！github蛇正在吃掉我的贡献**✨
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingyaogong&show_icons=true&theme=merko)
