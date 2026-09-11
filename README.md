@@ -12,7 +12,7 @@
 
 ### 📫 联系我
 
-邮箱：[![Email Badge](https://img.shields.io/badge/-QQEmail-000000?style=flat-square&logo=QQ&logoColor=white&link=mailto:1836863576@qq.com)](mailto:1836863576@qq.com) [![Email Badge](https://img.shields.io/badge/-TJEmail-00B2EE?style=flat-square&logoColor=white&link=mailto:2253157@tongji.edu.cn)](mailto:2253157@tongji.edu.cn)
+邮箱：[![Email Badge](https://img.shields.io/badge/-QQEmail-000000?style=flat-square&logo=QQ&logoColor=white&link=mailto:1836863576@qq.com)](mailto:1836863576@qq.com) [![Email Badge](https://img.shields.io/badge/-TJEmail-00B2EE?style=flat-square&logoColor=white&link=mailto:2634111@tongji.edu.cn)](mailto:2634111@tongji.edu.cn)
 
 ---
 
